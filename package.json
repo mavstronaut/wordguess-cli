@@ -1,0 +1,28 @@
+{
+  "name": "wordguess-cli",
+  "version": "1.0.0",
+  "description": "Prompts users to guess the phrase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavstronaut/wordguess-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "guess",
+    "find",
+    "game"
+  ],
+  "author": "mavstronaut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mavstronaut/wordguess-cli/issues"
+  },
+  "homepage": "https://github.com/mavstronaut/wordguess-cli#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
