@@ -22,7 +22,5 @@
     "url": "https://github.com/mavstronaut/wordguess-cli/issues"
   },
   "homepage": "https://github.com/mavstronaut/wordguess-cli#readme",
-  "dependencies": {
-    "prompt": "^1.0.0"
-  }
+  "dependencies": {}
 }
