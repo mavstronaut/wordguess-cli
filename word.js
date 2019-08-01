@@ -1,4 +1,4 @@
-var letter=require("./Letter.js")
+var letter=require("./letter.js")
 
 function Word (word, char){
     this.breakupWord = function(word){

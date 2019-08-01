@@ -1,6 +1,6 @@
 var inquirer = require ("inquirer");
 
-var word = require("./Word.js")
+var Word = require("./word.js");
 
 var words = ["orange", "pineapple", "banana", "mango", "passionfruit", "kiwi", "strawberry"];
 

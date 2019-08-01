@@ -22,5 +22,7 @@
     "url": "https://github.com/mavstronaut/wordguess-cli/issues"
   },
   "homepage": "https://github.com/mavstronaut/wordguess-cli#readme",
-  "dependencies": {}
+  "dependencies": {
+    "inquirer": "^6.5.0"
+  }
 }

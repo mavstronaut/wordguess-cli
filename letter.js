@@ -26,4 +26,4 @@ console.log(input)
 input.guess("b")
 
 
-//module.exports=Letter;
+module.exports=Letter;
